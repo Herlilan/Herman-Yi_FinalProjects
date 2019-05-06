@@ -28,7 +28,7 @@ The challenge of this project is the arduino kits are reletively new to us. Ther
 
 ## Completed Work
 
-Uploaded video of the final project
+Uploaded video and arduino code of the final project.
 
 ## References and links
 
