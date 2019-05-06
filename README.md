@@ -1,6 +1,6 @@
 # Arduino Wireless Drone
 
-This project is a controllable tank drone built with Arduino and able to control by a remote.
+This project is a remote controllable tank drone built with Arduino.
 
 ## Summary
 
